@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Geography</string>
+    <!--asia-->
+    <string-array name="japan">
+        <item>Tokyo</item>
+        <item>125,416,877</item>
+        <item>Japanese</item>
+        <item>\"His Imperial Majesty\'s Reign\"</item>
+    </string-array>
+    <string-array name="china">
+        <item>Beijing</item>
+        <item>1,411,750,000</item>
+        <item>Standard Chinese</item>
+        <item>\"March of the Volunteers\"</item>
+    </string-array>
+    <string-array name="indonesia">
+        <item>Jakarta</item>
+        <item>279,118,866</item>
+        <item>Indonesian</item>
+        <item>\"Great Indonesia\"</item>
+    </string-array>
+    <string-array name="india">
+        <item>New Delhi</item>
+        <item>1,428,627,663</item>
+        <item>Hindi, English</item>
+        <item>\"Thou Art the Ruler of the Minds of All People\"</item>
+    </string-array>
+    <string-array name="south_korea">
+        <item>Seoul</item>
+        <item>51,966,948</item>
+        <item>Korean</item>
+        <item>\"The Patriotic Song\"</item>
+    </string-array>
+    <string-array name="thailand">
+        <item>Bangkok</item>
+        <item>69,648,117</item>
+        <item>Thai</item>
+        <item>\"Thai National Anthem\"</item>
+    </string-array>
+    <string-array name="israel">
+        <item>Jerusalem</item>
+        <item>9,812,480</item>
+        <item>Hebrew</item>
+        <item>\"The Hope\"</item>
+    </string-array>
+    <!--europe-->
+    <string-array name="italy">
+        <item>Rome</item>
+        <item>58,853,482</item>
+        <item>Italian</item>
+        <item>\"The Song of the Italians\"</item>
+    </string-array>
+    <string-array name="germany">
+        <item>Berlin</item>
+        <item>84,482,267</item>
+        <item>German</item>
+        <item>\"Song of the Germans\"</item>
+    </string-array>
+    <string-array name="united_kingdom">
+        <item>London</item>
+        <item>66,971,411</item>
+        <item>English</item>
+        <item>\"God Save the King\"</item>
+    </string-array>
+    <string-array name="france">
+        <item>Paris</item>
+        <item>68,042,591</item>
+        <item>French</item>
+        <item>\"La Marseillaise\"</item>
+    </string-array>
+    <string-array name="switzerland">
+        <item>None</item>
+        <item>8,902,308</item>
+        <item>German, French, Italian, Romansh</item>
+        <item>\"Swiss Psalm\"</item>
+    </string-array>
+    <string-array name="netherlands">
+        <item>Amsterdam</item>
+        <item>17,965,700</item>
+        <item>Dutch</item>
+        <item>\"William of Nassau\"</item>
+    </string-array>
+    <string-array name="poland">
+        <item>Warsaw</item>
+        <item>38,036,118</item>
+        <item>Polski</item>
+        <item>\"Poland Is Not Yet Lost\"</item>
+    </string-array>
+    <!--africa-->
+    <string-array name="south_africa">
+        <item>Bloemfontein</item>
+        <item>62,027,503</item>
+        <item>12 languages</item>
+        <item>\"National anthem of South Africa\"</item>
+    </string-array>
+    <string-array name="nigeria">
+        <item>Abuja</item>
+        <item>213,400,000</item>
+        <item>English</item>
+        <item>\"Arise, O Compatriots\"</item>
+    </string-array>
+    <string-array name="kenya">
+        <item>Nairobi</item>
+        <item>53,000,000</item>
+        <item>SwaHili, English</item>
+        <item>\"O God of all Creation\"</item>
+    </string-array>
+    <string-array name="morocco">
+        <item>Rabat</item>
+        <item>37,984,655</item>
+        <item>Arabic, Tamazight</item>
+        <item>\"Cherifian Anthem\"</item>
+    </string-array>
+    <string-array name="niger">
+        <item>Niamey</item>
+        <item>25,250,000</item>
+        <item>French</item>
+        <item>\"L\'Honneur de la Patrie\"</item>
+    </string-array>
+    <string-array name="ghana">
+        <item>Accra</item>
+        <item>32,830,000</item>
+        <item>English</item>
+        <item>\"God Bless Our Homeland Ghana\"</item>
+    </string-array>
+    <string-array name="senegal">
+        <item>Dakar</item>
+        <item>16,880,000</item>
+        <item>French</item>
+        <item>\"Le Lion rouge\"</item>
+    </string-array>
+    <!--north america-->
+    <string-array name="united_states">
+        <item>Washington, D.C</item>
+        <item>331,900,000</item>
+        <item>English</item>
+        <item>\"The Star-Spangled Banner\"</item>
+    </string-array>
+    <string-array name="canada">
+        <item>Ottawa</item>
+        <item>38,250,000</item>
+        <item>English, French</item>
+        <item>\"O Canada\"</item>
+    </string-array>
+    <string-array name="mexico">
+        <item>Mexico City</item>
+        <item>126,700,000</item>
+        <item>Spanish</item>
+        <item>\"Himno Nacional\"</item>
+    </string-array>
+    <string-array name="greenland">
+        <item>Nuuk</item>
+        <item>56,653</item>
+        <item>Greenlandic</item>
+        <item>\"You Our Ancient Land\"</item>
+    </string-array>
+    <string-array name="cuba">
+        <item>La Habana</item>
+        <item>11,260,000</item>
+        <item>Spanish</item>
+        <item>\"El Himno de Bayamo\"</item>
+    </string-array>
+    <string-array name="jamaica">
+        <item>Kingston</item>
+        <item>1,243,000</item>
+        <item>English</item>
+        <item>\"Jamaica, Land We Love\"</item>
+    </string-array>
+    <string-array name="panama">
+        <item>Panama</item>
+        <item>4,351,000</item>
+        <item>Spanish</item>
+        <item>\"Isthmian Hymn\"</item>
+    </string-array>
+    <!--south america-->
+    <string-array name="brazil">
+        <item>Brazilia</item>
+        <item>214,300,000</item>
+        <item>Portuguese</item>
+        <item>\"Brazilian National Anthem\"</item>
+    </string-array>
+    <string-array name="argentina">
+        <item>Buenos Aires</item>
+        <item>45,810,000</item>
+        <item>Spanish</item>
+        <item>\"Argentine National Anthem\"</item>
+    </string-array>
+    <string-array name="colombia">
+        <item>Bogota</item>
+        <item>51,520,000</item>
+        <item>Spanish</item>
+        <item>\"Oh gloria inmarcesible\"</item>
+    </string-array>
+    <string-array name="peru">
+        <item>Lima</item>
+        <item>34,463,000</item>
+        <item>Spanish</item>
+        <item>\"Himno Nacional del Peru\"</item>
+    </string-array>
+    <string-array name="chile">
+        <item>Santiago</item>
+        <item>19,490,000</item>
+        <item>Spanish</item>
+        <item>\"National Anthem of Chile\"</item>
+    </string-array>
+    <string-array name="venezuela">
+        <item>Caracas</item>
+        <item>28,200,000</item>
+        <item>Spanish</item>
+        <item>\"Gloria al Bravo Pueblo\"</item>
+    </string-array>
+    <string-array name="ecuador">
+        <item>Quito</item>
+        <item>17,800,000</item>
+        <item>Spanish</item>
+        <item>\"Salve, Oh Patria\"</item>
+    </string-array>
+    <!--oceania-->
+    <string-array name="australia">
+        <item>Canberra</item>
+        <item>25,690,000</item>
+        <item>English</item>
+        <item>\"Advance Australia Fair\"</item>
+    </string-array>
+    <string-array name="new_zealand">
+        <item>Wellington</item>
+        <item>5,123,0000</item>
+        <item>Te Reo Maori, English</item>
+        <item>\"God Defend New Zealand\"</item>
+    </string-array>
+    <string-array name="fiji">
+        <item>Suva</item>
+        <item>926,000</item>
+        <item>English, Fijian, Fiji Hindi</item>
+        <item>\"Meda Dau Doka\"</item>
+    </string-array>
+    <string-array name="micronesia">
+        <item>Palikir</item>
+        <item>113,000</item>
+        <item>English</item>
+        <item>\"Patriots of Micronesia\"</item>
+    </string-array>
+    <string-array name="samoa">
+        <item>Apia</item>
+        <item>218,000</item>
+        <item>Samoan, English</item>
+        <item>\"The Banner of Freedom\"</item>
+    </string-array>
+    <string-array name="tonga">
+        <item>Nuku\'alofa</item>
+        <item>106,000</item>
+        <item>Tongan, English</item>
+        <item>\"song of the king of the Tonga Islands\"</item>
+    </string-array>
+    <string-array name="kiribati">
+        <item>Tarawa</item>
+        <item>128,000</item>
+        <item>English</item>
+        <item>\"Song of Kiribati\"</item>
+    </string-array>
+</resources>
